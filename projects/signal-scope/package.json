@@ -1,0 +1,14 @@
+
+{
+  "name": "signal-scope",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/core": "^17.0.0 || ^18.0.0"
+  },
+  "dependencies": {},
+  "ngPackage": {
+    "lib": {
+      "entryFile": "src/public-api.ts"
+    }
+  }
+}
